@@ -1,3 +1,3 @@
 # html-tool
-Moj prvi repo <br>
-Jednostavan web sajt o mom omiljenom bendu
+My first GitHub repository <br>
+A simple web page about my favorite band
